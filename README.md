@@ -2,8 +2,7 @@
 ## 概要
 パイソンとwinのコマンドプロンプトで遊べるゲーム。
 python3.5です  
-python main.py  
-で起動。スペースバーでジャンプ。  
+python main.pyで起動。qで終了、スペースバーでジャンプ。  
 ###とげに当たるとGAMEOVERです。  
 windowsのコマンドプロンプトで動きます。  
 ![a](https://i.ytimg.com/vi/SldtrKnpEKQ/mqdefault.jpg)  
